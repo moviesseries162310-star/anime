@@ -416,5 +416,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/fq0DXgxDLgoilru3M7XVzKjGbOm.jpg",
     "released": "2021-01-01",
     "imdbRating": "7.2"
+  },
+  {
+    "id": "gdrive-folder:1PZ99f6XC7fc-YUYAndhQkNoQgkWwvFRd",
+    "type": "movie",
+    "name": "Record of Ragnarok",
+    "poster": "https://image.tmdb.org/t/p/w500/kTs2WNZOukpWdNhoRlH94pSJ3xf.jpg",
+    "description": "Before eradicating humankind from the world, the gods give them one last chance to prove themselves worthy of survival. Let the Ragnarok battles begin.",
+    "background": "https://image.tmdb.org/t/p/w1280/6pSkqecoNsxSA467Z28uhVDrjXo.jpg",
+    "released": "2021-01-01",
+    "imdbRating": "8.4"
   }
 ]
