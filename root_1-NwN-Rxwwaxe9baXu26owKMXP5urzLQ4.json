@@ -3270,5 +3270,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/gMk4uyWJnsgauRIjJyE63ECDTNa.jpg",
     "released": "2024-01-01",
     "imdbRating": "7.4"
+  },
+  {
+    "id": "gdrive-folder:1BtbaYHKay5Lpqc8_42BsAx9AWCuBSf7l",
+    "type": "movie",
+    "name": "My Clueless First Friend",
+    "poster": "https://image.tmdb.org/t/p/w500/vgUQaunqSLmTtU38VmRntz8aVsN.jpg",
+    "description": "One lonely, gloomy fifth-grade girl is the target of her classmates' relentless bullying and teasing—that is, until a new kid arrives on the scene. Friendly Takada is as clueless as he is well-meaning, but somehow he possesses the magic ability to start drawing \"Grim Reaper\" Nishimura out of her shell. As the elementary schoolers experience all the fun of a childhood summer together—from going to the pool to picking sunflowers to watching fireworks—an unusual friendship blossoms!",
+    "background": "https://image.tmdb.org/t/p/w1280/kw8lD8gtkTzxX0rNfr4x5onQ2MY.jpg",
+    "released": "2023-01-01",
+    "imdbRating": "6.5"
   }
 ]
