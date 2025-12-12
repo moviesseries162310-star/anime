@@ -3260,5 +3260,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/s0w8JbuNNxL1YgaHeDWih12C3jG.jpg",
     "released": "2015-01-01",
     "imdbRating": "8.4"
+  },
+  {
+    "id": "gdrive-folder:1YxzHjkEsa7YoyyKFJiHCZe2yYVqhMlVL",
+    "type": "movie",
+    "name": "Suicide Squad Isekai",
+    "poster": "https://image.tmdb.org/t/p/w500/AbVwsBJnLoqJzPJn8dlGFSGfygy.jpg",
+    "description": "In the crime-ridden city of Gotham, Amanda Waller, the head of A.R.G.U.S., assembles a group of notorious criminals—Harley Quinn, Deadshot, Peacemaker, Clayface and King Shark—for a mission into an otherworldly realm that's connected to this world through a gate. It's a realm of swords and magic where orcs rampage and dragons rule the skies. Can Harley Quinn and her crew conquer this perilous realm?",
+    "background": "https://image.tmdb.org/t/p/w1280/gMk4uyWJnsgauRIjJyE63ECDTNa.jpg",
+    "released": "2024-01-01",
+    "imdbRating": "7.4"
   }
 ]
