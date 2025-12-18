@@ -4760,5 +4760,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/ize3ZieqSy0TCWljmVoEiy8fSFS.jpg",
     "released": "2019-01-01",
     "imdbRating": "8.0"
+  },
+  {
+    "id": "gdrive:1lBfZ8dvUf811Rzkn6Zw28pRasJGnET7O",
+    "type": "movie",
+    "name": "The Monkey King: Reborn",
+    "poster": "https://image.tmdb.org/t/p/w500/67YXOoKGODyGvJXfXzVmgHNXYh8.jpg",
+    "description": "When the irritable monkey king visits a temple together with his master Tang Monk, he feels offended because of a trifle and thereupon accidentally destroys a magic tree growing on the sacred ground. This brings an ancient demon king back to life, who promptly kidnaps Tang Monk to take revenge for his long imprisonment. The monkey king and his followers have only three days to not only save their master but also to prevent the demon king from regaining his full powers and destroying the world…",
+    "background": "https://image.tmdb.org/t/p/w1280/tv2xJzlQfwTHHls2ze8UeSheWgv.jpg",
+    "released": "2021-01-01",
+    "imdbRating": "7.2"
   }
 ]
