@@ -4730,5 +4730,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/gqTz24ZRsCP6AKjARmEivY7m0cK.jpg",
     "released": "2025-01-01",
     "imdbRating": "7.8"
+  },
+  {
+    "id": "gdrive:13KD5Ki6tLSnapLHdODASVqGXyCbumXbG",
+    "type": "movie",
+    "name": "The Red Scroll",
+    "poster": "https://image.tmdb.org/t/p/w500/r0VBSTNQ2G1zQKvWbPaeYxFaZi5.jpg",
+    "description": "This is the story of Nina, a 13-year-old girl who is transported to the universe of Telurian, a mysterious and Earth-like world inhabited by various fantastic creatures. There she will join a group who must prevent the master of darkness, Lord Dark, from seizing the Red Scroll and opening dimensional portals in various worlds, bringing darkness and destruction upon them.",
+    "background": "https://image.tmdb.org/t/p/w1280/vEKPSZMV7QlWE4V71SqfeK11Ll9.jpg",
+    "released": "2020-01-01",
+    "imdbRating": "6.7"
   }
 ]
