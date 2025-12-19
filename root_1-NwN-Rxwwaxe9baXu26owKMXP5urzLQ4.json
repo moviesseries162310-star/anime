@@ -3290,5 +3290,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/aOQL8UYduNxDePbynZROLZ1nfsf.jpg",
     "released": "2018-01-01",
     "imdbRating": "8.1"
+  },
+  {
+    "id": "gdrive-folder:19pCFsdGvEcsLhUSpdvcngubsdJmwmauj",
+    "type": "movie",
+    "name": "If My Favorite Pop Idol Made It to the Budokan, I Would Die",
+    "poster": "https://image.tmdb.org/t/p/w500/n8tBDlRzWOA8ywyQNv3t9EokHVx.jpg",
+    "description": "Passionate music-lover Eripiyo only wants to see her favorite underground pop group, ChamJam, make it to the big stage at Budokan. Because they've enriched her life by their very existence, Eri is willing to dedicate everything she has to see this dream fulfilled—even her health. At their last performance she got a crazy nosebleed. Hey, no one said being a super-fan was easy!",
+    "background": "https://image.tmdb.org/t/p/w1280/kos8QXOgFQS89j9cR7SoEJtCjhB.jpg",
+    "released": "2020-01-01",
+    "imdbRating": "7.9"
   }
 ]
