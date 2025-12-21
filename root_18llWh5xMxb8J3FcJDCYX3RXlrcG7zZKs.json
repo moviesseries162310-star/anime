@@ -4780,5 +4780,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/d4we56oInXStdqPgcNzSsfWcKTP.jpg",
     "released": "1992-01-01",
     "imdbRating": "6.5"
+  },
+  {
+    "id": "gdrive:1msoegy67K2o8sV_4_467XSSCM79e6uAv",
+    "type": "movie",
+    "name": "The Adventures of Jurassic Pet: Return to the Wild",
+    "poster": "https://image.tmdb.org/t/p/w500/c8uz2Mn44ha8tkso9uCc12poYmr.jpg",
+    "description": "When a documentary film crew discovers the magical doorway to the land of dinosaurs, they encounter and capture a little dinosaur named Spike.",
+    "background": "https://image.tmdb.org/t/p/w1280/k0sYJ4lQ7k5RGQKXXK7VB3BEOWT.jpg",
+    "released": "2024-01-01",
+    "imdbRating": "6.0"
   }
 ]
