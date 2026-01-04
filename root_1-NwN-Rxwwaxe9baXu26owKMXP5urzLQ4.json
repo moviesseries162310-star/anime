@@ -3352,5 +3352,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/6USilErg8aOh2en3ozjjquOrAL0.jpg",
     "released": "2020-01-01",
     "imdbRating": "7.8"
+  },
+  {
+    "id": "gdrive-folder:1ZwiHTqR_VqEnIddHkdTMtUl37ykykYu2",
+    "type": "movie",
+    "name": "Sentenced to Be a Hero",
+    "poster": "https://image.tmdb.org/t/p/w500/k8bh5mvHDx3czHSF56v9lRyulLC.jpg",
+    "description": "In a world where heroism is a punishment, Xylo Forbartz, a condemned goddess killer, battles endless hordes of monstrous abominations as part of Penal Hero Unit 9004. Death is no escape, only a cycle of resurrection and relentless combat. But when Xylo encounters a mysterious new goddess, their unlikely alliance sparks a rebellion that could shatter the chains of eternal punishment.",
+    "background": "https://image.tmdb.org/t/p/w1280/k8uBEraJWZf9o7oJbaVHrECwvjC.jpg",
+    "released": "2026-01-01",
+    "imdbRating": "8.7"
   }
 ]
