@@ -446,5 +446,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/c18riMetjfxzaSwnylcAnyPgUm0.jpg",
     "released": "2025-01-01",
     "imdbRating": "8.3"
+  },
+  {
+    "id": "gdrive-folder:1JS4CpDRDR8ezNR_QtFwRM4h1g0-Y8tCK",
+    "type": "movie",
+    "name": "Golden Kamuy",
+    "poster": "https://image.tmdb.org/t/p/w500/KjatL82mrWDogOlswIxwdrpe2n.jpg",
+    "description": "A Russo-Japanese War veteran partners with an Ainu girl to find a treasure stolen from her people, but they’re not the only ones pursuing the gold.",
+    "background": "https://image.tmdb.org/t/p/w1280/6qwbib8digp121qA9xj3STeq2KC.jpg",
+    "released": "2018-01-01",
+    "imdbRating": "7.6"
   }
 ]
