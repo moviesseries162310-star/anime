@@ -3382,5 +3382,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/onwny8s0VTTN7te9TJnItgvyWHy.jpg",
     "released": "2007-01-01",
     "imdbRating": "7.6"
+  },
+  {
+    "id": "gdrive-folder:1NxwE-g9erg1Un67kp1cVhfBSJpC6eSmx",
+    "type": "movie",
+    "name": "DARK MOON: THE BLOOD ALTAR",
+    "poster": "https://image.tmdb.org/t/p/w500/68HcRvCpiajsPhKn1MnV4hqeCAN.jpg",
+    "description": "In the seaside city of Riverfield stands Decelis Academy, home to seven mysterious boys sharing the same secret: They're vampires, hiding their murky pasts. When Sooha, a female student who hates vampires, transfers to the academy, the boys find themselves irresistibly drawn to her. As strange events shake the city, old sins and buried secrets resurface, and their world begins to fracture.",
+    "background": "https://image.tmdb.org/t/p/w1280/iKalNKa27eSiNgqGvDn55Q8fNjI.jpg",
+    "released": "2026-01-01",
+    "imdbRating": "10.0"
   }
 ]
