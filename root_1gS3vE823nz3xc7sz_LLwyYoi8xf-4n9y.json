@@ -456,5 +456,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/6qwbib8digp121qA9xj3STeq2KC.jpg",
     "released": "2018-01-01",
     "imdbRating": "7.6"
+  },
+  {
+    "id": "gdrive-folder:13PkDtvLmlpotOkSw-iloaz-bcHcQ3eQO",
+    "type": "movie",
+    "name": "Kaya-chan Isn't Scary",
+    "poster": "https://image.tmdb.org/t/p/w500/dGpY7Onbd0zCC88BFuPbIAsQbtK.jpg",
+    "description": "Kaya-chan attends Hanamugi Kindergarten, and she has an incredibly strong sixth sense. She secretly beats up the ghosts that stalk her friends and family, but in turn, she’s treated like a troublemaker since nobody understands her strange behavior. Everything changes when her teacher, Chie, discovers her secret. Kaya-chan's fists will go flying at any sinister spirits that show up!",
+    "background": "https://image.tmdb.org/t/p/w1280/vcHzF9NHQLM8dCW1OOBhezsFRiO.jpg",
+    "released": "2026-01-01",
+    "imdbRating": "8.0"
   }
 ]
