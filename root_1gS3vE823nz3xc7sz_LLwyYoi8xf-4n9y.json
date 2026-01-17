@@ -476,5 +476,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/3pxPbuDzuZaWRdheGptiDTM9jFz.jpg",
     "released": "2026-01-01",
     "imdbRating": "8.3"
+  },
+  {
+    "id": "gdrive-folder:1MDiO8_oeWR2KRkVrKs578a7AWmTvfsfZ",
+    "type": "movie",
+    "name": "Love Through a Prism",
+    "poster": "https://image.tmdb.org/t/p/w500/rB3RQpjQAnzl9NH3r8HzPkofgH8.jpg",
+    "description": "In early 1900s London, a young Japanese woman enrolls in a famous art school, only to be surprised when rivalry with a gifted classmate becomes romance.",
+    "background": "https://image.tmdb.org/t/p/w1280/MYrRkkE2L0DKw5CRjbCYeQjLAq.jpg",
+    "released": "2026-01-01",
+    "imdbRating": "8.5"
   }
 ]
