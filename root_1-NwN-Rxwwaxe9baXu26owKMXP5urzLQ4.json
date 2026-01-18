@@ -3412,5 +3412,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/o0NsbcIvsllg6CJX0FBFY8wWbsn.jpg",
     "released": "2004-01-01",
     "imdbRating": "8.4"
+  },
+  {
+    "id": "gdrive-folder:16_ztQkgMuZvMs_1hAJ7MjOTNi51Aredj",
+    "type": "movie",
+    "name": "MF GHOST",
+    "poster": "https://image.tmdb.org/t/p/w500/jqkDWnBDltFCjAdhxCqUWg9GXFB.jpg",
+    "description": "Japan adopts self-driving electric automobiles and renders most gas engines obsolete by 202X. The fastest cars find new life in the MFG, a racing circuit held on Japanese motorways. Drivers from around the world race for a shot at the title. Kanata Rivington returns from Britain to Japan for the MFG—and to find his father. Can he win the title and find answers? Buckle up and push it to the limit!",
+    "background": "https://image.tmdb.org/t/p/w1280/qEqLerjgjX9BL1fsqRc4MoWzqIU.jpg",
+    "released": "2023-01-01",
+    "imdbRating": "8.2"
   }
 ]
