@@ -506,5 +506,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/gDvxT2z6TNxervG97WfpePRZ3aR.jpg",
     "released": "2011-01-01",
     "imdbRating": "8.4"
+  },
+  {
+    "id": "gdrive-folder:1whp4IjCKC83bxSrKRkkC_qtT4AUzX4y2",
+    "type": "movie",
+    "name": "A Star Brighter than the Sun",
+    "poster": "https://image.tmdb.org/t/p/w500/tMCyjS1Qif5VhmRakSJpF0TzdQj.jpg",
+    "description": "Sae Iwata, a slightly tougher-than-average girl, falls for the gentle smile of Koki Kamishiro, a delicate boy, back in elementary school. By the time they enter junior high school, Koki has grown into a charming and popular teen who now feels out of reach. When they are assigned to the sports festival committee together, Sae’s long-hidden first love begins to stir once more.",
+    "background": "https://image.tmdb.org/t/p/w1280/5EzzCBJXWU7lpi8rPrhHDC4KkWj.jpg",
+    "released": "2025-01-01",
+    "imdbRating": "7.9"
   }
 ]
