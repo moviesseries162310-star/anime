@@ -516,5 +516,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/5EzzCBJXWU7lpi8rPrhHDC4KkWj.jpg",
     "released": "2025-01-01",
     "imdbRating": "7.9"
+  },
+  {
+    "id": "gdrive-folder:1G_q6ogLXP7AssZZboNczyantNxsAhTzk",
+    "type": "movie",
+    "name": "Banana Fish",
+    "poster": "https://image.tmdb.org/t/p/w500/d2TW5Rtd0uCasHlQygsDfWCROl2.jpg",
+    "description": "A teenaged gang leader in New York City faces his abuser and rival gangs alongside a photojournalist from Japan as they investigate a deadly new drug.",
+    "background": "https://image.tmdb.org/t/p/w1280/9I297AAuMFuKY0GgFmxKTo5tzrz.jpg",
+    "released": "2018-01-01",
+    "imdbRating": "8.6"
   }
 ]
