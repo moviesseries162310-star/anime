@@ -496,5 +496,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/KQDy2RJMN2gsPV5RZO1pQdFZAQ.jpg",
     "released": "2025-01-01",
     "imdbRating": "6.5"
+  },
+  {
+    "id": "gdrive-folder:1IAeLBy7qv4VMNK0ondGVBRs0eIkoYlOV",
+    "type": "movie",
+    "name": "Steins;Gate",
+    "poster": "https://image.tmdb.org/t/p/w500/5zxePQEsUKLYDh2kpXGQAeInjUU.jpg",
+    "description": "A group of friends have customized their microwave so that it can send text messages to the past. As they perform different experiments, an organization named SERN who has been doing their own research on time travel tracks them down and now the characters have to find a way to avoid being captured by them.",
+    "background": "https://image.tmdb.org/t/p/w1280/gDvxT2z6TNxervG97WfpePRZ3aR.jpg",
+    "released": "2011-01-01",
+    "imdbRating": "8.4"
   }
 ]
