@@ -486,5 +486,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/MYrRkkE2L0DKw5CRjbCYeQjLAq.jpg",
     "released": "2026-01-01",
     "imdbRating": "8.5"
+  },
+  {
+    "id": "gdrive-folder:1Igh97kGCzKJX5gD8E54dC4f57e3VCNlA",
+    "type": "movie",
+    "name": "Ninja vs. Gokudo",
+    "poster": "https://image.tmdb.org/t/p/w500/zOokyOcW8KtCTkF6Km6KZKABz83.jpg",
+    "description": "The ninja banish evil from the shadows. The gokudo gather lonely outcasts and commit crimes. The grudge they forged centuries ago is rekindled in the present day. The ninja Shinoha meets Kiwami, a gokudo with the face of a businessman. Unknowing of the other's identity, they bond over anime, but the war between ninja and gokudo intensifies. Who will survive and who will perish, ninja or gokudo?",
+    "background": "https://image.tmdb.org/t/p/w1280/KQDy2RJMN2gsPV5RZO1pQdFZAQ.jpg",
+    "released": "2025-01-01",
+    "imdbRating": "6.5"
   }
 ]
