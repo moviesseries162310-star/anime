@@ -4820,5 +4820,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/jXDIBCyGPEqdxGi5M6eC0fL3xf4.jpg",
     "released": "2024-01-01",
     "imdbRating": "7.3"
+  },
+  {
+    "id": "gdrive:1T7vkRBkkikEZ6DW1WVACAI90vXQVwPB-",
+    "type": "movie",
+    "name": "Codename: Kids Next Door: Operation Z.E.R.O.",
+    "poster": "https://image.tmdb.org/t/p/w500/fwgLVVHcDT2XtR3I9ozHN2CwC0v.jpg",
+    "description": "The villains of the Kids Next Door, lead by Father, join forces to resurrect the Ultimate Evil, Grandfather, a tyrant who once ruled the world many years ago when most of the villains were themselves kids. However, Father disgraced him that he can't even try to destroy the KND and the Villains were quickly betrayed when they are turned into Senior Citizombies, creatures that are immortal and can transform any living creature into one of them and slaves who are forced to make Tapioca to refuel Grandfather so he can find and destroy the Book of K.N.D.",
+    "background": "https://image.tmdb.org/t/p/w1280/5VZ3GramsLcNS8RjypzmLU4h5hH.jpg",
+    "released": "2006-01-01",
+    "imdbRating": "8.0"
   }
 ]
