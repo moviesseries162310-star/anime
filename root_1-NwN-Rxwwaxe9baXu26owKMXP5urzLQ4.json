@@ -3422,5 +3422,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/qEqLerjgjX9BL1fsqRc4MoWzqIU.jpg",
     "released": "2023-01-01",
     "imdbRating": "8.2"
+  },
+  {
+    "id": "gdrive-folder:1XLyag9mKt-Tzch6UV4qNA3UTYjUp8sPI",
+    "type": "movie",
+    "name": "Theatre of Darkness: Yamishibai",
+    "poster": "https://image.tmdb.org/t/p/w500/coYJ1i9QLlHZTanckLZ4iceptlj.jpg",
+    "description": "Yamishibai is a picture-story style of animation whose motif is surrounded and based off the rumors, and urban legends throughout the history of Japan.",
+    "background": "https://image.tmdb.org/t/p/w1280/upkcoee5VhPeTTbLdPERtCVhy4N.jpg",
+    "released": "2013-01-01",
+    "imdbRating": "7.4"
   }
 ]
