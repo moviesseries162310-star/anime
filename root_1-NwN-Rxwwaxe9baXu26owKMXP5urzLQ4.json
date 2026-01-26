@@ -3432,5 +3432,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/upkcoee5VhPeTTbLdPERtCVhy4N.jpg",
     "released": "2013-01-01",
     "imdbRating": "7.4"
+  },
+  {
+    "id": "gdrive-folder:1occ6NDSoP8FdLevLEIzB70JY8cEt3ttA",
+    "type": "movie",
+    "name": "Kunon the Sorcerer Can See",
+    "poster": "https://image.tmdb.org/t/p/w500/kGGdMa1fEwMiyyFB1AnUox5cshy.jpg",
+    "description": "Kunon, a young man who cannot see, has the goal of creating new eyes with water magic. After just five months of learning sorcery, Kunon surpassed his own mentor and honed his talent as he tried to do a feat that's never been done before. A fantasy about a young man, a blind genius, who opens up the world through curiosity in the pursuit for magic is about to begin.",
+    "background": "https://image.tmdb.org/t/p/w1280/jliuY8wmHTSB6WtpZUXAUF547t4.jpg",
+    "released": "2026-01-01",
+    "imdbRating": "8.7"
   }
 ]
