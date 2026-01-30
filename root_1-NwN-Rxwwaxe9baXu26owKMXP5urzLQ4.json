@@ -3452,5 +3452,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/7Wx1Io7Ml7ZUtf8XXsKLMBrj0lx.jpg",
     "released": "2026-01-01",
     "imdbRating": "8.6"
+  },
+  {
+    "id": "gdrive-folder:1F8wRt2W3yLtYGeh4GEA_xrTR_qK8NKok",
+    "type": "movie",
+    "name": "An Adventurer's Daily Grind at Age 29",
+    "poster": "https://image.tmdb.org/t/p/w500/tx6XZPOJ5UgVzvo8BXb2cNhFBq5.jpg",
+    "description": "Born and raised in the slums, 29-year-old adventurer Hajime Shinonome now lives a quiet life in Komai Village. But his peaceful days take a turn when he discovers Lirui, an abandoned young girl, being attacked by a slime. Moved by her desperation and reminded of his own past, he takes her back to the village. Hajime and Lirui begin a new chapter filled with unexpected challenges and gentle days!",
+    "background": "https://image.tmdb.org/t/p/w1280/AjcUWWB60zEOE6xGA9rD2idJD2f.jpg",
+    "released": "2026-01-01",
+    "imdbRating": "9.3"
   }
 ]
