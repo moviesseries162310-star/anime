@@ -3482,5 +3482,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/6dErjmx17e8kZn5zHAqLrbcTesV.jpg",
     "released": "2023-01-01",
     "imdbRating": "7.3"
+  },
+  {
+    "id": "gdrive-folder:1rfYCH7i_lSfqsTi6L7ayuQ-PfRDcfipx",
+    "type": "movie",
+    "name": "A Misanthrope Teaches a Class for Demi-Humans",
+    "poster": "https://image.tmdb.org/t/p/w500/yOM6DxJblSheZwOeGwAzfIHxnCc.jpg",
+    "description": "After a traumatic incident ends his teaching career, Rei Hitoma is certain he hates humans. Yet when he sees a job for \"a teacher who truly cares for their students,\" he's compelled to apply. Before he knows it, he's hired—only to find out his students are demi-humans. What begins as a job becomes a journey for healing for both a teacher who's lost faith in humanity and students who dream of it.",
+    "background": "https://image.tmdb.org/t/p/w1280/yrDQ24QE2qW2eNB2TGNafYT1Wnh.jpg",
+    "released": "2026-01-01",
+    "imdbRating": "8.0"
   }
 ]
