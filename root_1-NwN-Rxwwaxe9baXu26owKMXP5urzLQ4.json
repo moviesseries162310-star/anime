@@ -3472,5 +3472,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/uLC9tdRSPcKsgvRLth38WEbm8pa.jpg",
     "released": "2026-01-01",
     "imdbRating": "7.5"
+  },
+  {
+    "id": "gdrive-folder:1CQMM8EZ4U1CxUqXzY-Q5IPPNRRDqXf9a",
+    "type": "movie",
+    "name": "TRIGUN STAMPEDE",
+    "poster": "https://image.tmdb.org/t/p/w500/h1AvI9Mt6v15q5ynb3t9Dp4czBm.jpg",
+    "description": "Vash the Stampede's a joyful gunslinging pacifist, so why does he have a $$6 million bounty on his head? That's what's puzzling rookie reporter Meryl Stryfe and her jaded veteran partner when looking into the vigilante only to find someone who hates blood. But their investigation turns out to uncover something heinous—his evil twin brother, Millions Knives.",
+    "background": "https://image.tmdb.org/t/p/w1280/6dErjmx17e8kZn5zHAqLrbcTesV.jpg",
+    "released": "2023-01-01",
+    "imdbRating": "7.3"
   }
 ]
