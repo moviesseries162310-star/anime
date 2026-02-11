@@ -546,5 +546,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/nC74XDzNd2F7hH8q0XqyZfzLV5D.jpg",
     "released": "2014-01-01",
     "imdbRating": "8.4"
+  },
+  {
+    "id": "gdrive-folder:1ED1ZKg2cNGHMnFZQ7-ahHf48tOyUyZgq",
+    "type": "movie",
+    "name": "The Seven Deadly Sins: Four Knights of the Apocalypse",
+    "poster": "https://image.tmdb.org/t/p/w500/6SWVJvCIC9B16u6wASZ8FEaNssz.jpg",
+    "description": "As a prophecy of doom unfolds on the peaceful land of Britannia, a purehearted boy sets out on a journey of discovery — and revenge.",
+    "background": "https://image.tmdb.org/t/p/w1280/dd1tEbUU9NLLo3drq39NknpHQ6v.jpg",
+    "released": "2023-01-01",
+    "imdbRating": "8.2"
   }
 ]
