@@ -3522,5 +3522,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/esBYtd4HLuEd5E1vlbTdBdgcdfe.jpg",
     "released": "2020-01-01",
     "imdbRating": "6.5"
+  },
+  {
+    "id": "gdrive-folder:1_OqG8zhVe5ip_Rt477yajviBgol_T7Eg",
+    "type": "movie",
+    "name": "Terror in Resonance",
+    "poster": "https://image.tmdb.org/t/p/w500/wc1PaImHVXIESClpEDwNI1mlYuC.jpg",
+    "description": "In an alternate version of the present, Tokyo has been decimated by a shocking terrorist attack, and the only hint to the identity of the culprit is a bizarre video uploaded to the internet. The police, baffled by this cryptic clue, are powerless to stop the paranoia spreading across the population. While the world searches for a criminal mastermind to blame for this tragedy, two mysterious children - children who shouldn't even exist - masterfully carry out their heinous plan. Cursed to walk through this world with the names Nine and Twelve, the two combine to form \"Sphinx,\" a clandestine entity determine to wake the people from their slumber - and pull the trigger on this world.",
+    "background": "https://image.tmdb.org/t/p/w1280/lt5rC0GcXVmHEjXzRruNIdbca8B.jpg",
+    "released": "2014-01-01",
+    "imdbRating": "7.8"
   }
 ]
