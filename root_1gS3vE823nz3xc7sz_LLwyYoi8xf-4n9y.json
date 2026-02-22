@@ -556,5 +556,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/dd1tEbUU9NLLo3drq39NknpHQ6v.jpg",
     "released": "2023-01-01",
     "imdbRating": "8.2"
+  },
+  {
+    "id": "gdrive-folder:15eoXQkFTMOxBWC-YRWpPsAhR-avFCOiD",
+    "type": "movie",
+    "name": "Hero Without a Class: Who Even Needs Skills?!",
+    "poster": "https://image.tmdb.org/t/p/w500/wEJKnnOIl8PhVhkgghMiMRTc5tL.jpg",
+    "description": "In this world a goddess bestows each person with a class and skills that will determine one's life direction. Despite being born the son of a Sword Princess and an Archmage, Arel has not received a class or skills. So, Arel must rely on his own grit, determination and natural talents to pursue and achieve greatness—becoming a new kind of hero. A hero without a class!",
+    "background": "https://image.tmdb.org/t/p/w1280/lkzrT7Vpnd2OZ2bpKXjWsb9KFc0.jpg",
+    "released": "2025-01-01",
+    "imdbRating": "6.7"
   }
 ]
