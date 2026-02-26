@@ -3542,5 +3542,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/9C790yZxW8EmNYCDmmSU3e2vQS6.jpg",
     "released": "2012-01-01",
     "imdbRating": "8.0"
+  },
+  {
+    "id": "gdrive-folder:1U5mE0mZp5AudUKnjAxDAbvVw5uFsMyJm",
+    "type": "movie",
+    "name": "BAKI-DOU: The Invincible Samurai",
+    "poster": "https://image.tmdb.org/t/p/w500/frtzbwANetYd0M4zdrZ5gx0E89q.jpg",
+    "description": "Baki and the strongest Underground Arena fighters face a threat of historical proportions: the resurrected Musashi Miyamoto, Japan's greatest samurai.",
+    "background": "https://image.tmdb.org/t/p/w1280/wDfGmFJPVni31X3E3ExszHFPNk6.jpg",
+    "released": "2026-01-01",
+    "imdbRating": null
   }
 ]
