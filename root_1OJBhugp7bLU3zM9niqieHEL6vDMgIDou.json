@@ -1,0 +1,12 @@
+[
+  {
+    "id": "gdrive:1OJBhugp7bLU3zM9niqieHEL6vDMgIDou",
+    "type": "movie",
+    "name": "A Beautiful Mind",
+    "poster": "https://image.tmdb.org/t/p/w500/zwzWCmH72OSC9NA0ipoqw5Zjya8.jpg",
+    "description": "From the heights of notoriety to the depths of depravity, John Forbes Nash Jr. experiences it all. As a brilliant but socially awkward mathematician, he made a groundbreaking discovery early in his career and stands on the brink of international acclaim. But as the handsome and arrogant Nash accepts secret work in cryptography, he becomes entangled in a mysterious conspiracy. His life takes a nightmarish turn and he soon finds himself on a painful and harrowing journey of self-discovery.",
+    "background": "https://image.tmdb.org/t/p/w1280/vVBcIN68kFq681b4lObiNJhEVro.jpg",
+    "released": "2001-01-01",
+    "imdbRating": "7.9"
+  }
+]
