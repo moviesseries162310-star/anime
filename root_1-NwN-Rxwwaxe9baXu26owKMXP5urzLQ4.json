@@ -3562,5 +3562,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/3vWwtaHxQLeussGVKQN599FEHfN.jpg",
     "released": "2012-01-01",
     "imdbRating": "9.3"
+  },
+  {
+    "id": "gdrive-folder:1dBksxSEwXJYSsx_p3YQvrIl1NzxXUZW9",
+    "type": "movie",
+    "name": "Beyblade Burst",
+    "poster": "https://image.tmdb.org/t/p/w500/fG7BHxDlntPyB57UuNo9sXmAmLV.jpg",
+    "description": "Middle schooler Valt Aoi, with his Beyblade Valkyrie (Valtryek), faces off against friends, classmates, and rivals to become the world's number one Blader.",
+    "background": "https://image.tmdb.org/t/p/w1280/j0meXFRhxwk13yUaLBSUtqOwx7I.jpg",
+    "released": "2016-01-01",
+    "imdbRating": "8.3"
   }
 ]
