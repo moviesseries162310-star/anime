@@ -3552,5 +3552,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/wDfGmFJPVni31X3E3ExszHFPNk6.jpg",
     "released": "2026-01-01",
     "imdbRating": null
+  },
+  {
+    "id": "gdrive-folder:1dGqgjRSb4mViOBZqaqfZpTWANZLMHhU8",
+    "type": "movie",
+    "name": "BeyWheelz",
+    "poster": "https://image.tmdb.org/t/p/w500/8xN1xNPzvxNMZlc7c9FsNbk1wN5.jpg",
+    "description": "BeyWheelz: Powered by Beyblade, commonly referred to as BeyWheelz is a anime mini-series based on the, Hasbro toyline, BeyWheelz. It was commissioned by Nelvana and is produced by Synergy SP and d-rights.",
+    "background": "https://image.tmdb.org/t/p/w1280/3vWwtaHxQLeussGVKQN599FEHfN.jpg",
+    "released": "2012-01-01",
+    "imdbRating": "9.3"
   }
 ]
