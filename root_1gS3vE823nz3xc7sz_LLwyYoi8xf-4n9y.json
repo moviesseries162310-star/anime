@@ -586,5 +586,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/3tcC0twOnd6fs7jLG3kiaseR6Fw.jpg",
     "released": "2022-01-01",
     "imdbRating": "6.1"
+  },
+  {
+    "id": "gdrive-folder:1CIOwiVmnY4hqWcpjqywny794_ntjeacA",
+    "type": "movie",
+    "name": "Beyblade X",
+    "poster": "https://image.tmdb.org/t/p/w500/66wkm14IWdrY5LaKZDAbkD2T9Jt.jpg",
+    "description": "Beginner blader Robin Kazami joins up with influencer Multi Nana-iro and former champion Jaxon Cross to form this unlikely trio - ready to climb to the top of The X and win the title of champion blader!",
+    "background": "https://image.tmdb.org/t/p/w1280/6OAvlyDxLhfxxPB9Mn9w43EaR3N.jpg",
+    "released": "2023-01-01",
+    "imdbRating": "6.8"
   }
 ]
