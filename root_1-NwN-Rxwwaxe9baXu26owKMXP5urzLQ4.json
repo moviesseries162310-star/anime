@@ -3582,5 +3582,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/dHQ6u5nRMCHGHLCl220iCah6jX0.jpg",
     "released": "2009-01-01",
     "imdbRating": "7.4"
+  },
+  {
+    "id": "gdrive-folder:12F9UJdHuYt7M9bgxR92jLTGcD1GXksIM",
+    "type": "movie",
+    "name": "BeyWarriors: Cyborg",
+    "poster": "https://image.tmdb.org/t/p/w500/jsftJVUmV7jqUSA8wOFR3xqa23X.jpg",
+    "description": "“Teslandia” is an abandoned planet, ignored by the rest of the nearby planets due to its harsh environment. The story begins when power spots containing high levels of energy called “Sanctuaries” were identified, and mysterious vehicle shaped items called “Beyraiderz” were found along with the Sanctuaries. Beyraiderz can synchronize with the youths under the age of 17 living in Teslandia, and summon the Cyborg creatures known as “Warrior.” The Warrior can transform high level “Sanctuaries” energy into small Tokens. This means that human beings are able to obtain energy by making the “Warrior” battle against each other to turn the arid wasteland into a lush and bountiful world!\n\nSo, who will win the most battles and collect the most Tokens? What mystery lies behind Warrior?",
+    "background": null,
+    "released": "2014-01-01",
+    "imdbRating": "6.5"
   }
 ]
