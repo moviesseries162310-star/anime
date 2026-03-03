@@ -1,0 +1,12 @@
+[
+  {
+    "id": "gdrive:1j-PGCw_4f2QVxhyD1iO6djMMvbd3IHQx",
+    "type": "movie",
+    "name": "The Cabin in the Woods",
+    "poster": "https://image.tmdb.org/t/p/w500/zZZe5wn0udlhMtdlDjN4NB72R6e.jpg",
+    "description": "Five friends set out for a weekend at a remote cabin in the woods, expecting nothing more than fun and relaxation. As night falls, they discover that something far more unsettling is at work and that nothing about their getaway is what it seems.",
+    "background": "https://image.tmdb.org/t/p/w1280/dWLoSzvw52y1gt7ni9gZXdy693e.jpg",
+    "released": "2012-01-01",
+    "imdbRating": "6.6"
+  }
+]
