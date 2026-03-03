@@ -3572,5 +3572,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/j0meXFRhxwk13yUaLBSUtqOwx7I.jpg",
     "released": "2016-01-01",
     "imdbRating": "8.3"
+  },
+  {
+    "id": "gdrive-folder:1dAd3r8rfqAIug1MaxuJ98VHP4qpZ1C2g",
+    "type": "movie",
+    "name": "Beyblade: Metal Saga",
+    "poster": "https://image.tmdb.org/t/p/w500/AvzR1LroQFPs8mtvW761BZX92qx.jpg",
+    "description": "A new cast of characters take on the continued battle between good and evil. Gingka, our hero, and his group of loyal friends take on a dangerous group called the Dark Nebula. Dark Nebula’s mission is to take over the world and unleash their evil upon it; but before they can do so, they must destroy Gingka as he is the only person that’s strong enough to stand in their way. The plot thickens as friends become enemies and enemies become allies. Everything starts and ends with Gingka as he struggles to find the strength to defend his world and the honor of Beyblade.",
+    "background": "https://image.tmdb.org/t/p/w1280/dHQ6u5nRMCHGHLCl220iCah6jX0.jpg",
+    "released": "2009-01-01",
+    "imdbRating": "7.4"
   }
 ]
