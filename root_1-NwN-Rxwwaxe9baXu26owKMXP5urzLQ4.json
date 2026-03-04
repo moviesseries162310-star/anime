@@ -3592,5 +3592,15 @@
     "background": null,
     "released": "2014-01-01",
     "imdbRating": "6.5"
+  },
+  {
+    "id": "gdrive-folder:1FmOuM9SUl9ktBT-zNuxY3YjGokFCY_Jg",
+    "type": "movie",
+    "name": "Jack-of-All-Trades, Party of None",
+    "poster": "https://image.tmdb.org/t/p/w500/qRvICaz6LJXz96DaYcpTjQf6QN8.jpg",
+    "description": "Betrayed by his childhood friend and cast out of the Hero Party, Orhun Dura—once their loyal Enchanter—is branded by his former comrades as “a jack-of-all-trades but a master of none.” Alone, he sets out to forge a new path as a solo adventurer. His journey sparks explosive battles, deadly rivals, and unexpected allies—and he’ll rise to shatter every expectation. The ultimate solo comeback begins!",
+    "background": "https://image.tmdb.org/t/p/w1280/1nt43fq7CKbqAJAospEo63vYXBV.jpg",
+    "released": "2026-01-01",
+    "imdbRating": "8.5"
   }
 ]
